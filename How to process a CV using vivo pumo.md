@@ -26,6 +26,7 @@ Create a file with a row header (first line) that looks something like below :
   pub_uri     |   Randomly generate a value and check if that id is already present in the VIVO database. This randomly generated value is used to create a new VIVO Url and link that url to publication. | http://vivo.ufl.edu/individual/1461349101
   affiliation |   Leave Blank #TODO                                             | #TODO
   title       |   Title of the publication.                                     | Identifying emerging research collaborations and networks: method development
+  pub_date    |   Publication date in the format                                | 2014-03-20T00:00:00
   
   
 Populate the above file in the specified format. A single line corresponds to single publication. 
