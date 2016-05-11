@@ -1,6 +1,8 @@
 ## How to run awstats to analyze apache logs
 
-#### Installation of tool
+AWStats is a free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically. This log analyzer works as a CGI or from command line and shows you all possible information your log contains, in few graphical web pages
+
+### Installation of tool
 
 1. `awstats` comes as a handy zip file which can be downloaded from the awstats download page ([here](http://www.awstats.org/#DOWNLOAD) at the time of this writing)
 2. All you need to do is extract the folder to a location. (Recommended directory :  **/Library/WebServer/awstats**)
@@ -8,7 +10,7 @@
 4. The set up actions are explained in more details [here](http://www.awstats.org/docs/awstats_setup.html#INSTALL) at awstats documentation page.
 
 
-#### Configuration options
+### Configuration options
 1. You would have created a configuration option for analyzing the logs in the above installation process.
 2. In the tools directory of awstats, run the command
 
@@ -57,7 +59,7 @@
         DirData="/home/user/logs/data"
 6. The log file will be read from *LogFile* and the internal data will be written in to *DirData*
 
-#### Running the tool
+### Running the tool
 
 1. Navigate to `{AWSTATS_INSTALL_DIR}/wwwroot/cgi-bin/` and run the command `perl awstats.pl -config=vivo.ufl.edu -update`. Your output should look something like this.
 
