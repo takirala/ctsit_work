@@ -114,3 +114,9 @@ AWStats is a free powerful and featureful tool that generates advanced web, stre
             23 files built.
             Main HTML page is 'awstats.vivo.ufl.edu.html'.
 5. And, you can use your favourite web browser to view the generated reports.
+
+## References
+
+http://www.awstats.org/docs/
+http://krypted.com/mac-os-x-server/howto-install-awstats-on-os-x/
+http://www.onehippo.com/en/resources/blogs/2012/07/Generating+Reports+from+Web+Logs+with+AWStats.html
