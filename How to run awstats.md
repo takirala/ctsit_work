@@ -117,6 +117,6 @@ AWStats is a free powerful and featureful tool that generates advanced web, stre
 
 ## References
 
-http://www.awstats.org/docs/
-http://krypted.com/mac-os-x-server/howto-install-awstats-on-os-x/
-http://www.onehippo.com/en/resources/blogs/2012/07/Generating+Reports+from+Web+Logs+with+AWStats.html
+1. http://www.awstats.org/docs/
+2. http://krypted.com/mac-os-x-server/howto-install-awstats-on-os-x/
+3. http://www.onehippo.com/en/resources/blogs/2012/07/Generating+Reports+from+Web+Logs+with+AWStats.html
